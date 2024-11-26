@@ -1,0 +1,13 @@
+  
+  body{
+        font-family: Arial;
+    }
+
+    nav{
+        text-align: center;
+        height: 20px;
+        background-color: grey;
+    }
+    h1{
+        text-align:center;
+    }
