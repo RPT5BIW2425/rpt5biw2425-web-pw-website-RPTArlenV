@@ -6,8 +6,25 @@
     nav{
         text-align: center;
         height: 20px;
-        background-color: grey;
+        background-color: none;
     }
     h1{
         text-align:center;
+    }
+
+    article{
+        text-align: left;
+    }
+
+    aside{
+        float: right;
+    }
+
+    img{
+        width: 250px;
+    }
+
+    main{
+        float: left;
+        width: 1200px;
     }
