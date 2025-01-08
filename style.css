@@ -28,3 +28,7 @@
         float: left;
         width: 1200px;
     }
+
+    th, td{
+        border: 1px solid black;
+    }
